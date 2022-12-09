@@ -1,0 +1,15 @@
+body{
+    border: 5px solid black;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    font-size: xx-large;
+}
+
+
